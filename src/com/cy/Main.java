@@ -9,5 +9,6 @@ public class Main {
         System.out.println("李德华");
         System.out.println("钟宇");
         System.out.println("幺儿");
+        System.out.println("lyy");
     }
 }
