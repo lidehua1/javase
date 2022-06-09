@@ -10,5 +10,6 @@ public class Main {
         System.out.println("钟宇");
         System.out.println("幺儿");
         System.out.println("lyy");
+        System.out.println("马飓风");
     }
 }
